@@ -15,6 +15,9 @@
   },
   "plchAge": "Hero's age",
   "plchStory": "Type of the story",
-  "plchImage": "drag and drop your image here or browse"
+  "plchImage": "drag and drop your image here or browse",
+  "checkNames": ["LADYBUG", "ladybug", "1234567890",";)))#", "Karabas - Barabas 10"],
+  "testNamesLength": ["a", "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa", "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"]
 
-  }
+
+}
