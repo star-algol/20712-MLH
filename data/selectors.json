@@ -20,5 +20,6 @@
   "valuesInText": ".card-text",
   "ageErrUnreal": ".ant-form-item-explain",
   "imageField": "span.ant-upload",
-  "errorAlert": ".ant-form-item-explain"
+  "errorAlert": ".ant-form-item-explain",
+  "storyHeader":"h4"
 }
