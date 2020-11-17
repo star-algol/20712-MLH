@@ -185,7 +185,7 @@ describe('My Little Hero', function () {
             expect(optionIt.getValue()).toEqual(exp.plchGender.it);
         });
 
-        it('TC-031 Placeholder for Image is correct', function () {
+        it('TC-030 Placeholder for Image is correct', function () {
             const placeholderImage = $(sel.imageText);
             expect(placeholderImage.getText()).toEqual(exp.plchImage);
         });
